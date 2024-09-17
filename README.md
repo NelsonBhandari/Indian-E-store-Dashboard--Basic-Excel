@@ -2,7 +2,8 @@
 
 This project involves an in-depth analysis of sales data for **E-desi** using Excel, with the goal of deriving actionable insights to drive business decisions. By leveraging data cleaning, processing, and visualization techniques, this project highlights key trends, customer demographics, and regional sales performance through an interactive dashboard.
 
-## Dataset
+## Dataset used
+- <a href="https://github.com/NelsonBhandari/Basic-Excel-Project/blob/main/Store%20Data.xlsx">Dataset</a>
 
 ## Key Business Questions Addressed
 
