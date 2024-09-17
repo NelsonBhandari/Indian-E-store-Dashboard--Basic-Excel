@@ -2,6 +2,8 @@
 
 This project involves an in-depth analysis of sales data for **E-desi** using Excel, with the goal of deriving actionable insights to drive business decisions. By leveraging data cleaning, processing, and visualization techniques, this project highlights key trends, customer demographics, and regional sales performance through an interactive dashboard.
 
+## Dataset
+
 ## Key Business Questions Addressed
 
 The analysis provides insights into several key business questions:
@@ -22,6 +24,9 @@ The analysis followed a structured approach to ensure clean, accurate, and insig
 2. **Data Processing:** Organized the dataset for analysis, including the creation of new features for more granular insights.
 3. **Data Analysis:** Used Excel functions, pivot tables, and statistical methods to explore trends and relationships.
 4. **Interactive Dashboard:** Built a dynamic and user-friendly dashboard with charts and graphs for easy exploration of the data.
+
+## Dashboard
+
 
 ## Sample Insights
 
