@@ -27,6 +27,7 @@ The analysis followed a structured approach to ensure clean, accurate, and insig
 4. **Interactive Dashboard:** Built a dynamic and user-friendly dashboard with charts and graphs for easy exploration of the data.
 
 ## Dashboard
+- Dashboard Interaction <a href="https://github.com/NelsonBhandari/Basic-Excel-Project/blob/main/E-Desi%20Store%20Report%202022%2C%20Basic%20Excel.xlsx">View Dashboard</a>
 
 
 ## Sample Insights
