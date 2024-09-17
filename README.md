@@ -28,7 +28,7 @@ The analysis followed a structured approach to ensure clean, accurate, and insig
 
 ## Dashboard
 - Dashboard Interaction <a href="https://github.com/NelsonBhandari/Basic-Excel-Project/blob/main/E-Desi%20Store%20Report%202022%2C%20Basic%20Excel.xlsx">View Dashboard</a>
-
+- <a href="https://github.com/NelsonBhandari/Basic-Excel-Project/blob/main/Image%2017-09-2024%20at%2020.48.jpg">Screenshot</a>
 
 ## Sample Insights
 
