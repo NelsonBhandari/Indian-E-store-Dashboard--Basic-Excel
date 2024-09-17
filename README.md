@@ -38,6 +38,5 @@ Based on the insights gathered, the following strategic recommendations are prop
 - **Target Audience Focus:** Prioritize marketing efforts towards women aged 30-49 years, particularly in Maharashtra, Karnataka, and Uttar Pradesh.
 - **Channel Optimization:** Invest in targeted promotions, offers, and ad campaigns on high-performing channels such as Amazon, Flipkart, and Myntra to further drive engagement and sales.
 
----
 
 This project demonstrates the value of using Excel for data-driven decision-making in sales strategy, enabling **E-desi** to optimize their marketing and operational efforts for greater business growth. The interactive dashboard offers a comprehensive and visual exploration of the data, facilitating better strategic planning.
