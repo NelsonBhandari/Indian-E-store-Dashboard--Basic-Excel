@@ -1,8 +1,3 @@
-# Basic-Excel-Project
-Here's the README refined to reflect the professional tone and approach of a data analyst:
-
----
-
 # E-desi Sales Analysis Dashboard in Excel
 
 This project involves an in-depth analysis of sales data for **E-desi** using Excel, with the goal of deriving actionable insights to drive business decisions. By leveraging data cleaning, processing, and visualization techniques, this project highlights key trends, customer demographics, and regional sales performance through an interactive dashboard.
