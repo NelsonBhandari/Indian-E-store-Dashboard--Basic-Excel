@@ -46,4 +46,4 @@ Based on the insights gathered, the following strategic recommendations are prop
 - **Channel Optimization:** Invest in targeted promotions, offers, and ad campaigns on high-performing channels such as Amazon, Flipkart, and Myntra to further drive engagement and sales.
 
 
-This project demonstrates the value of using Excel for data-driven decision-making in sales strategy, enabling **E-desi** to optimize their marketing and operational efforts for greater business growth. The interactive dashboard offers a comprehensive and visual exploration of the data, facilitating better strategic planning.
+This project demonstrates the value of using Excel for data-driven decision-making in sales strategy, enabling **E-desi** to optimize their marketing and operational efforts for greater business growth. The interactive dashboard offers a comprehensive and visual exploration of the data, facilitating better strategic planning.If you want to know more, please get in touch.
